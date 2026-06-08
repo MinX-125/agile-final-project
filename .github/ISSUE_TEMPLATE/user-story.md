@@ -1,5 +1,3 @@
-Paste this full content into your `user-story.md` file or use it as your single backlog issue content.
-
 # Agile Final Project - Product Backlog User Stories
 
 ## 1. Need the ability to create a product in the catalog
